@@ -1,3 +1,15 @@
+![home](https://github.com/user-attachments/assets/08ff561f-b5f3-48ce-944a-644ab9f21d6c)
+
+![details](https://github.com/user-attachments/assets/5c59c44f-2198-4b8d-a4af-de932c0b19dd)
+
+![form](https://github.com/user-attachments/assets/4d73a642-b009-4db9-9cae-55496905e16d)
+
+![goals](https://github.com/user-attachments/assets/070d9993-bb91-4e05-9ded-11ef6c396e2a)
+
+![about](https://github.com/user-attachments/assets/4ea26f4e-97c1-4f2c-b6a7-81463206ecf6)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
